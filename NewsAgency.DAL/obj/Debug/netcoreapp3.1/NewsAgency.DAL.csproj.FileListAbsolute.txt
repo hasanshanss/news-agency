@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\bin\Debug\netcoreapp3.1\NewsAgency.DAL.deps.json
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\bin\Debug\netcoreapp3.1\NewsAgency.DAL.runtimeconfig.json
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\bin\Debug\netcoreapp3.1\NewsAgency.DAL.runtimeconfig.dev.json
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\bin\Debug\netcoreapp3.1\NewsAgency.DAL.dll
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\bin\Debug\netcoreapp3.1\NewsAgency.DAL.pdb
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.AssemblyInfo.cs
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.dll
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.pdb
+C:\Users\User\source\repos\NewsAgency\NewsAgency.DAL\obj\Debug\netcoreapp3.1\NewsAgency.DAL.genruntimeconfig.cache
