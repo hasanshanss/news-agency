@@ -5961,11 +5961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.Services\\NewsAgency.Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.Services\\NewsAgency.Services.csproj",
       "projectName": "NewsAgency.Services",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.Services\\NewsAgency.Services.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.Services\\NewsAgency.Services.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.Services\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5982,8 +5982,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.DAL\\NewsAgency.DAL.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.DAL\\NewsAgency.DAL.csproj"
+            "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.DAL\\NewsAgency.DAL.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.DAL\\NewsAgency.DAL.csproj"
             }
           }
         }

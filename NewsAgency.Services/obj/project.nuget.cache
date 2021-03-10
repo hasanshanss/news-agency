@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1+ndyH0000f5TPSq6TxzS/rJl5WbQ3oLP5Sww6f9P/iMfCo24opwXVfgG1KM0/xLhYMNYM//KPnM0x03yGE/Cg==",
+  "dgSpecHash": "v3SAi3Vo9i81nwGiMCObr1XhbVVBeyTsMkvQVt9iqdVhgNZdFjLA48/7nPMBwjPhSaqpcNXjMTNvrYcHMdkfYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.Services\\NewsAgency.Services.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.Services\\NewsAgency.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

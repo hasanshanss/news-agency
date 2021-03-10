@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lPIDJ08oNx7QvR3WKxg/9osc1/cPWuuD/AWMDrmIFs4NvGG3e4Z3pjzE9WOXPVqQlsvULIb8cV5bSFwsTyfyXw==",
+  "dgSpecHash": "Ci2PsZAruvBtLjlFWuighquHVVxApX44E7mTk9gKaC3i97zy1qjLT6VbUTOC8K8REDNi+2grx4oEfmcH9fdlSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.DAL\\NewsAgency.DAL.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.DAL\\NewsAgency.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

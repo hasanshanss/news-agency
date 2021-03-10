@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj": {}
+    "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj": {
+    "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj",
         "projectName": "NewsAgency.ConsoleClient",
-        "projectPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.ConsoleClient\\NewsAgency.ConsoleClient.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.ConsoleClient\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.ConsoleClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

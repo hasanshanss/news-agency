@@ -4,9 +4,9 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NewsAgency.API.Contracts.V2.Requests
+namespace NewsAgency.API.Contracts.V1.Responses
 {
-    public class CreateNewsRequest
+    public class DownloadNewsResponse
     {
         [Required]
         [StringLength(50)]
@@ -14,7 +14,10 @@ namespace NewsAgency.API.Contracts.V2.Requests
         [Required]
         [StringLength(500)]
         public string Content { get; set; }
-        [Required]
-        public int NewsCategoryId { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Title}:\n\n{Content}\n\n\n";
+        }
     }
 }

@@ -6039,11 +6039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.DAL\\NewsAgency.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.DAL\\NewsAgency.DAL.csproj",
       "projectName": "NewsAgency.DAL",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.DAL\\NewsAgency.DAL.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.DAL\\NewsAgency.DAL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NewsAgency\\NewsAgency.DAL\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\news-agency\\NewsAgency.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
